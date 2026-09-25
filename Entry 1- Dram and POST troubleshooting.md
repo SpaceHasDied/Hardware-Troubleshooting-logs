@@ -1,8 +1,8 @@
 # DRAM and POST Troubleshooting
 
-# System: Desktop PC Workstation
+**System: Desktop PC Workstation**
 
-# Problem
+## Problem
 The desktop powered on but would not complete POST and no video output came on
 
 ## Troubleshooting steps taken:
